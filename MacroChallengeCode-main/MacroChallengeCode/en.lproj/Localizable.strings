@@ -1,0 +1,32 @@
+".StartActivity" = "Start Activity";
+".StopActivity" = "End Activity";
+//On Boarding
+".TapToSwitchToSunsetMode" = "Tap to switch to \"Sunset\" Mode";
+".DragTheSliderToSee" = "You can drag the slider to see how much time left to sunset";
+".TapToSwitchToGoingMode" = "Tap to switch to \"Going\" Mode";
+".LongPressToComingBackMode" = "Long press to switch to \"Coming back\" Mode";
+".TapToEndActivity" = "Tap to end the activity!";
+
+
+".ComingBack" = "Coming Back";
+".Going" = "Going..";
+".DoYouWantoToQuit?" = "Do you really want to quit?";
+".AllThePinsLeft_description" = "All the pins left until now will be permanently deleted";
+".Quit" = "Quit";
+".Cancel" = "Cancel";
+".Congratulation" = "Congratulation";
+".YouArrived" = "You arrived at your starting point";
+".Okay" = "OK";
+".ActivityTime" = "You walked for";
+".TimeToSunset" = "Time left until sunset";
+".DoYouWantoToResume?" = "Do You Want To Resume The Last Path?";
+".Resume" = "Resume";
+".No" = "No";
+".LowAccuracy" = "Low gps\naccuracy";
+".Naples" = "Data obtained from: Naples, Italy";
+
+
+".ActivateGPS" = "Enable Location Services";
+".ActivateGPSDescription" = "The location will be used to record your path";
+
+".OpenSettings" = "Open Settings";
